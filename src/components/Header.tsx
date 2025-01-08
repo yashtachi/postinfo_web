@@ -8,7 +8,7 @@ export function Header() {
         <div className="flex items-center justify-between">
           <div className="flex items-center space-x-2">
             <Mail size={24} />
-            <h1 className="text-xl font-bold">Department of Posts</h1>
+            <h1 className="text-xl font-bold">PostInfo</h1>
           </div>
           <nav>
             <ul className="flex space-x-6">

@@ -11,7 +11,7 @@ function App() {
     <Router>
       <div className="min-h-screen bg-gray-50">
         <Header />
-        
+
         <main className="container mx-auto px-4 py-8">
           <div className="space-y-8">
             <section id="dashboard">
@@ -47,7 +47,7 @@ function App() {
         <footer className="bg-gray-800 text-white mt-12">
           <div className="container mx-auto px-4 py-6">
             <p className="text-center text-gray-400">
-              © {new Date().getFullYear()} Department of Posts - Citizens' Charter Monitoring System
+              © {new Date().getFullYear()} PostInfo - Yashtachi
             </p>
           </div>
         </footer>
