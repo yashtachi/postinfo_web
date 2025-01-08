@@ -10,7 +10,7 @@ web based postinfo for major project
 ## Installation
 To install the project, clone the repository and install the dependencies:
 ```bash
-git clone https://github.com/yourusername/postinfo_web.git
+git clone https://github.com/yashtachi/postinfo_web.git
 cd postinfo_web
 npm install
 ```
