@@ -18,7 +18,7 @@ npm install
 ## Usage
 To start the web application, run the following command:
 ```bash
-npm start
+npm run dev
 ```
 Then open your browser and navigate to `http://localhost:3000`.
 
